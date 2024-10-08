@@ -116,3 +116,7 @@ body{
   height:360px; 
   width: 84vh;
  }
+
+ .category{
+    border-radius: 50%;
+ }
